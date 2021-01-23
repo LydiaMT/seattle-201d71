@@ -6,7 +6,9 @@ body {
   width: 900px;
   margin: 0 auto;
 } 
-
+.cursive {
+  font-family: "Brush Script MT", "Brush Script Std", cursive;
+}
 .nav {
   display: inline-block;
 }
