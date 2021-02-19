@@ -59,6 +59,11 @@ Refer to the daily class repo for your assets required for this lab as well as a
   - What observations or questions do you have about what you've learned so far?
   - How long did it take you to complete this assignment? And, before you started, how long did you think it would take you to complete this assignment?
 
+# LAB - Class 10
+## Project: Chocolate Pizza Lab A
+### Author: Lydia Minehan-Tubic / R. Mal Sweet
+
+
 
 ## Reference
 * [z-index](https://developer.mozilla.org/en-US/docs/Web/CSS/z-index)
